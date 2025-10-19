@@ -16,9 +16,9 @@ pip install -r requirements.txt
 
 # 3. Run the chatbot
 python app.py
+```
 
 ## Live Demo
-
 You can try the deployed version here:  
 👉 [Bloom & Vow Chatbot on Hugging Face](https://huggingface.co/spaces/Zaynab122/bloom-and-vows-chatbot)
 
