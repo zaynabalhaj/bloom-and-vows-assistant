@@ -1,0 +1,8 @@
+openai
+gradio==4.9.1
+pandas==2.2.3
+pypdf==4.3.1
+python-dotenv==1.0.1
+matplotlib==3.8.0
+pillow==10.3.0
+
