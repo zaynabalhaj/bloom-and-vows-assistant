@@ -8,7 +8,7 @@ Bloom & Vow is an AI-powered floral wedding assistant built with **Python** and 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/bloom-and-vow-bot.git
+git clone https://github.com/zaynabalhaj/bloom-and-vows-assistant.git
 cd bloom-and-vow-bot
 
 # 2. Install dependencies
